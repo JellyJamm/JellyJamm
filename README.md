@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**JellyJamm/JellyJamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am 6locc 6a6y
 
-Here are some ideas to get you started:
+Pronouns: he/him  
+Location: Los Angeles, California  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently do text based FiveM scripts in Lua. I am currently learning Java and hope to eventually expand to C#.
+
+## Discord
+Click [here](https://discord.gg/MhevPBdHuZ) to join my development and support Discord server  
+https://discord.gg/MhevPBdHuZ
+
+
+
+![6locc 6a6y](https://cdn.discordapp.com/attachments/695031619819536565/903694730657943582/loaded3.PNG)
