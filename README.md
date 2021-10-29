@@ -11,5 +11,5 @@ Click [here](https://discord.gg/MhevPBdHuZ) to join my development and support D
 https://discord.gg/MhevPBdHuZ
 
 
-
+### 6locc 6a6y
 ![6locc 6a6y](https://cdn.discordapp.com/attachments/695031619819536565/903694730657943582/loaded3.PNG)
