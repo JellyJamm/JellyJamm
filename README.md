@@ -1,9 +1,6 @@
 
 # I am 6locc 6a6y
 
-Pronouns: he/him  
-Location: Los Angeles, California  
-
 I currently do text based FiveM scripts in Lua. I am currently learning Java and hope to eventually expand to C#.
 
 ## Discord
